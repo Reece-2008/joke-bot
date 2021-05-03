@@ -1,0 +1,14 @@
+
+body{
+  text-align: center;
+  background-color: rgb(226, 219, 203);
+}
+h1{
+  margin: 100px;
+}
+button {
+  padding: 20px;
+  background-color: rgb(175, 151, 172);
+  color: white;
+  font: italic small-caps bold 20px/35px Georgia, serif;
+}
